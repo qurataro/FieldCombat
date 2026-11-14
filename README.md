@@ -2,7 +2,7 @@
 
 
 
-![](C:\Users\qurat\Documents\VScode\famicom\rom_analyze\Field Combat\images\title.png)
+![](./images/title.png)
 
 ## ファミコン版とアーケード版の違い
 
